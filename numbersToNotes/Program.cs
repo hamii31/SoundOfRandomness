@@ -47,7 +47,7 @@
 
 			Console.WriteLine(string.Join(", ", notes));
 
-			//https://www.autopiano.cn/en/create/post -> post there to play the song
+			//https://www.autopiano.cn/en/create/post -> post the generated numbers here to play the song
 		}
 	}
 }
